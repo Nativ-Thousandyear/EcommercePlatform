@@ -1,0 +1,2 @@
+# EcommercePlatform
+EcommercePlatform(full-stack)
